@@ -1,3 +1,8 @@
-# compuational_physics_2015301020098
-计算物理作业
-##**Homework list**
+# Homework list
+- [ ] [exercise_02]()
+- [ ] [exercise_03]()
+- [ ] [exercise_04]()
+- [ ] [exercise_05]()
+- [ ] [exercise_06]()
+- [ ] [exercise_07]()
+- [ ] [exercise_08]()
