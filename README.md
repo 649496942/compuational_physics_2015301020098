@@ -4,6 +4,6 @@
 - [x] [exercise_03](https://www.zybuluo.com/vincent21/note/903060)
 - [x] [exercise_04](https://www.zybuluo.com/vincent21/note/914471)
 - [ ] [exercise_05]()
-- [ ] [exercise_06]()
+- [X] [exercise_06](https://www.zybuluo.com/vincent21/note/922548)
 - [ ] [exercise_07]()
 - [ ] [exercise_08]()
