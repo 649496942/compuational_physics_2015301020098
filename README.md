@@ -5,5 +5,5 @@
 - [x] [exercise_04](https://www.zybuluo.com/vincent21/note/914471)
 - [ ] [exercise_05]()
 - [X] [exercise_06](https://www.zybuluo.com/vincent21/note/922548)
-- [ ] [exercise_07]()
+- [x] [exercise_07:Lorenz model](https://www.zybuluo.com/vincent21/note/939199)
 - [ ] [exercise_08]()
